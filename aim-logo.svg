@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" fill="none" role="img" aria-label="AIM Safety Consulting Ltd">
+
+  <!-- ── ICON: Shield with stylised A + checkmark ── -->
+  <!-- Shield body -->
+  <path d="M8 10 L36 4 L64 10 L64 38 C64 52 36 64 36 64 C36 64 8 52 8 38 Z"
+        fill="#0D2240"/>
+  <!-- Shield inner lighter layer -->
+  <path d="M13 14 L36 9 L59 14 L59 38 C59 49.5 36 59.5 36 59.5 C36 59.5 13 49.5 13 38 Z"
+        fill="#1A3A5C"/>
+
+  <!-- Letter A (stylised, white) inside shield -->
+  <!-- Left leg of A -->
+  <path d="M24 48 L31.5 24 L36 18 L40.5 24 L48 48 H44 L41 38 H31 L28 48 Z"
+        fill="white"/>
+  <!-- Cross bar of A -->
+  <rect x="32" y="33" width="8" height="3" rx="1.5" fill="white"/>
+  <!-- Inner triangle cutout to refine the A -->
+  <path d="M36 21 L33.5 29 L38.5 29 Z" fill="#1A3A5C"/>
+
+  <!-- Checkmark tick (safety orange, bottom-right of shield) -->
+  <path d="M28 43 L33 49 L46 35"
+        stroke="#F26522" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- ── WORDMARK ── -->
+  <!-- "AIM" -->
+  <text x="78" y="44"
+        font-family="Montserrat, Arial, sans-serif"
+        font-weight="900"
+        font-size="26"
+        letter-spacing="-0.5"
+        fill="#0D2240">AIM</text>
+
+  <!-- Accent dot / divider -->
+  <rect x="134" y="30" width="3" height="3" rx="1.5" fill="#F26522"/>
+
+  <!-- "Safety" -->
+  <text x="142" y="44"
+        font-family="Montserrat, Arial, sans-serif"
+        font-weight="700"
+        font-size="20"
+        fill="#F26522">Safety</text>
+
+  <!-- "Consulting Ltd" subtitle -->
+  <text x="78" y="58"
+        font-family="Montserrat, Arial, sans-serif"
+        font-weight="500"
+        font-size="10"
+        letter-spacing="2.5"
+        fill="#5A6880">CONSULTING LTD</text>
+
+</svg>
